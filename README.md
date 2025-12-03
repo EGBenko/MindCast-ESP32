@@ -1,7 +1,7 @@
 # ☁️ MindCast: Bio-Atmospheric Sync
 
 <div align="center">
-  <img src="assets/Logo.png" alt="MindCast Logo" width="500">
+  <img src="assets/Logo.png" alt="MindCast Logo" width="400">
 </div>
 
 > **"Sincronize sua biologia com o ambiente ao seu redor."**
