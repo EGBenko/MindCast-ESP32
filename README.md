@@ -1,6 +1,6 @@
 # ☁️ MindCast: Bio-Atmospheric Sync
 
-![MindCast Logo](assets/image_549822.jpg)
+![MindCast Logo](assets/Logo.png)
 
 > **"Sincronize sua biologia com o ambiente ao seu redor."**
 
@@ -20,7 +20,7 @@ Não é apenas uma estação meteorológica; é um **Coach Cognitivo** que tradu
 
 ## ⚙️ Como Funciona
 
-![Arquitetura do Sistema](assets/image_0c4526.png)
+![Arquitetura do Sistema](assets/diagrama.png)
 
 1.  **Coleta:** O microcontrolador **ESP32** lê temperatura e pressão via sensor **BMP280** (Protocolo I2C).
 2.  **Processamento:** Os dados são enviados via HTTPS para a **API do Google Gemini 2.0 Flash**.
